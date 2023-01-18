@@ -1,0 +1,31 @@
+{
+  "name": "ab",
+  "version": "1.0.0",
+  "description": "This is a project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.1",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.6.5",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20",
+    "path": "^0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnjaliSangekar/Airbub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AnjaliSangekar/Airbub/issues"
+  },
+  "homepage": "https://github.com/AnjaliSangekar/Airbub#readme"
+}
